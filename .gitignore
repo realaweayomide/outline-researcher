@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+outline.md
+urls.txt
+.DS_Store
